@@ -10,6 +10,7 @@ void setup() {
 
   Serial.begin(9600);
   pinMode(FAN, OUTPUT);
+  pinMode(THERMISTOR, INPUT);
 
 }
 
