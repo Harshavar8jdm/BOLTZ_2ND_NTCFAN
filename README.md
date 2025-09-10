@@ -16,3 +16,11 @@ This Arduino project reads temperature from a 10k NTC thermistor and controls a 
 
 ## License
 GPL 3.0
+
+## Outputs: 
+
+  Temperature < 25c
+  ![WhatsApp Image 2025-09-10 at 5 12 29 PM](https://github.com/user-attachments/assets/92186e2d-c4ae-428b-901a-38157f3cb2b1)
+  <img width="481" height="509" alt="Screenshot From 2025-09-10 16-51-37" src="https://github.com/user-attachments/assets/ef9fc379-f78f-4e1a-81ec-4e09f177fcf8" />
+
+  
