@@ -4,7 +4,7 @@ This Arduino project reads temperature from a 10k NTC thermistor and controls a 
 
 ## Wiring:
 - Thermistor connected in a voltage divider circuit with 10k resistor , analog input to A0.
-- Fan connected to digital pin D11 (PWM capable).
+- Fan connected to digital pin D13 
 - Fixed resistor: 10k.
   
 ## Logic:
